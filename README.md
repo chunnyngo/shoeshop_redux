@@ -1,1 +1,1 @@
-https://bc44-react-shoeshop-ngoquangtruong.vercel.app/
+https://shoeshop-redux.vercel.app/
